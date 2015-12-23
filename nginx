@@ -8,7 +8,7 @@ DESC="nginx daemon"
 NAME=nginx
 DAEMON=/usr/local/nginx/sbin/$NAME
 CONFIGFILE=/usr/local/nginx/conf/$NAME.conf
-PIDFILE=/usr/local/nginx/logs/$NAME.pid</strong></span>
+PIDFILE=/usr/local/nginx/logs/$NAME.pid
 SCRIPTNAME=/etc/init.d/$NAME
  
 set -e
