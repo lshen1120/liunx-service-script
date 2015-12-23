@@ -2,7 +2,8 @@
 # Default-Start:     2 3 4 5
 # Default-Stop:      0 1 6
 # Short-Description: starts the nginx web server
- 
+# chkconfig:  - 80 12
+
 PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
 DESC="nginx daemon"
 NAME=nginx
