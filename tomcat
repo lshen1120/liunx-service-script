@@ -10,7 +10,7 @@ export JAVA_HOME=/usr/lib/jvm/java-1.8.0-openjdk.x86_64
 export PATH=$JAVA_HOME/bin:$PATH  
   
 #CATALINA_HOME is the location of the configuration files of this instance of Tomcat  
-CATALINA_HOME=/home/leechan/tools/tomcat-7.0.65
+CATALINA_HOME=/home/leechan/apps/tomcat-7.0.65
   
 #TOMCAT_USER is the default user of tomcat  
 TOMCAT_USER=leechan
